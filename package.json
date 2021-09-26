@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "botbuilder": "~4.11.0",
-    "botbuilder-dialogs": "~4.11.0",
     "botframework-connector": "~4.11.0"
   },
   "devDependencies": {
