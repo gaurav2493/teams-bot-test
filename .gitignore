@@ -1,0 +1,14 @@
+/node_modules
+/lib
+
+.DS_Store
+Procfile
+application.zip
+
+.ebextensions
+
+**/*/dist/
+# Elastic Beanstalk Files
+#.elasticbeanstalk/*
+#!.elasticbeanstalk/*.cfg.yml
+#!.elasticbeanstalk/*.global.yml

@@ -1,0 +1,22 @@
+{
+  "name": "bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "~4.11.0",
+    "botbuilder-dialogs": "~4.11.0",
+    "botframework-connector": "~4.11.0"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "tslint": "~5.20.0",
+    "typescript": "~3.6.4"
+  }
+}
