@@ -8,7 +8,7 @@ const serviceUrl = '';
 const botAppId = '';
 const botAppPassword = '';
 
-const teamId = '19:47495b264d364042a9b8fd82138bb349@thread.tacv2';
+const teamId = '';
 
 const adapter = new BotFrameworkAdapter({
   appId: botAppId,
